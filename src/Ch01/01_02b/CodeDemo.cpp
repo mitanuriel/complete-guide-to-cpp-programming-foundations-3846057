@@ -7,5 +7,8 @@
 
 int main(){
     std::cout << "Hello there and good luck" << std::endl;
+
+    std::cout << std::endl << std::endl;
+    
     return 0;
 }
