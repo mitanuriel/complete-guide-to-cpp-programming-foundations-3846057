@@ -9,7 +9,7 @@ int main(){
     std::string name;
     std::cout << "What is your name?" << std::flush;
     std::cin >> name;
-    std::cout << "Hi there " << name;
+    std::cout << "Hi there " << name << " ! "<< std::endl;
 
     std::cout << std::endl << std::endl;
     return 0;
